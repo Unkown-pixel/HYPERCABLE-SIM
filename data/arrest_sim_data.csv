@@ -1,1 +1,3 @@
 python src/simulate_composite.py --config configs/hypercable_4113_mod1.yaml --output data/arrest_sim_data.csv
+density_gcm3,uts_mpa,young_modulus_gpa,energy_absorption_mj_m3,fracture_toughness_mpam,fatigue_cycles,peak_force_37p6mm_MN,milstd_uts_pass,milstd_force_pass,milstd_fatigue_pass
+2.0,2246.3,173.3,38.2,8.0,25000,0.999,True,True,True
