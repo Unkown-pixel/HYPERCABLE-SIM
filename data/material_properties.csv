@@ -1,0 +1,4 @@
+phase,volume_fraction,density_gcm3,young_modulus_gpa,uts_mpa,efficiency_factor
+CNT_Grown_Carbon_Fiber,0.415,1.8,400000,5000,0.98
+Amorphous_Metallic_Glass,0.13,6.1,96000,1900,0.85
+PEBA_Elastomer,0.455,1.01,300,50,0.1
