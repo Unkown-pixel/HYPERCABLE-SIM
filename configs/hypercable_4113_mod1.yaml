@@ -1,0 +1,32 @@
+# HYPERCABLE-4113-MOD1 — CNT-Grown CF + MG + PEBA
+# Optimized for arresting cables, robotics, automotive crash
+
+name: "HYPERCABLE-4113-MOD1"
+description: "Multi-phase composite with CNT-grown carbon fiber, metallic glass, and PEBA matrix. Strain-limited to 5%."
+
+phases:
+  - name: "CNT_Grown_Carbon_Fiber"
+    volume_fraction: 0.415
+    density_gcm3: 1.8
+    young_modulus_gpa: 400
+    uts_mpa: 5000
+    efficiency_factor: 0.98
+
+  - name: "Amorphous_Metallic_Glass"
+    volume_fraction: 0.13
+    density_gcm3: 6.1
+    young_modulus_gpa: 96
+    uts_mpa: 1900
+    efficiency_factor: 0.85
+
+  - name: "PEBA_Elastomer"
+    volume_fraction: 0.455
+    density_gcm3: 1.01
+    young_modulus_gpa: 0.3
+    uts_mpa: 50
+    efficiency_factor: 0.1
+
+fracture_toughness_mpam: 8.0
+strain_limit_percent: 5.0
+target_application: "Aircraft arresting cable, automotive crash, robotics tendon"
+cost_usd_per_kg: 79
