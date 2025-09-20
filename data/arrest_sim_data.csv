@@ -1,0 +1,1 @@
+python src/simulate_composite.py --config configs/hypercable_4113_mod1.yaml --output data/arrest_sim_data.csv
