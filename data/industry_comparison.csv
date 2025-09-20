@@ -1,0 +1,10 @@
+industry,application,competitor_material,competitor_sea_kj_kg,your_material_sea_kj_kg,advantage_percent
+Automotive,Crash Structures,Steel,2.1,19.0,805
+Automotive,Crash Structures,Aluminum Honeycomb,11.1,19.0,71
+Automotive,Crash Structures,CFRP,9.4,19.0,102
+Robotics,Tendon Cables,Dyneema,25.8*,19.0,-26
+Robotics,Tendon Cables,Steel,2.1,19.0,805
+Marine,Mooring Cables,Steel Wire Rope,2.1,19.0,805
+Marine,Mooring Cables,HMPE (Dyneema),25.8*,19.0,-26
+Civil,Seismic Dampers,Lead-Rubber,~10,19.0,90
+Aerospace,Landing Gear,Ti-6Al-4V,~5,19.0,280
