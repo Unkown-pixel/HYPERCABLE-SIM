@@ -1,0 +1,7 @@
+test,requirement,unit,result,status
+Minimum_UTS,>=1800,MPa,2246,Pass
+Peak_Force,<=2.5,MN,1.0,Pass
+Fatigue_Cycles,>=100,cycles,25000,Pass
+Salt_Spray_Resistance,No_degradation,,Pass,
+Snap_Back_Energy,Minimal,,Pass,
+Strain_Limit,<=5%,%,5.0,Pass
