@@ -1,0 +1,2 @@
+mkdir -p docs/figures
+python src/plot_stress_strain.py --save docs/figures/stress_strain.png
